@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Iñigo Lorente | Urbanismo, GIS y data</title>
+    <link href="https://inilorente.github.io/ilr-page/feed.xml" rel="self" />
+    <link href="https://inilorente.github.io/ilr-page" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Iñigo Lorente</name>
+    </author>
+    <id>https://inilorente.github.io/ilr-page</id>
+
+    <entry>
+        <title>Pagina de prueba</title>
+        <author>
+            <name>Iñigo Lorente</name>
+        </author>
+        <link href="https://inilorente.github.io/ilr-page/pagina-de-prueba.html"/>
+        <id>https://inilorente.github.io/ilr-page/pagina-de-prueba.html</id>
+
+        <updated>2020-07-13T14:28:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hola. Este es un post de prueba.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hola. Este es un post de prueba.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

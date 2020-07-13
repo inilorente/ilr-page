@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Iñigo Lorente | Urbanismo, GIS y data",
+    "description": "",
+    "home_page_url": "https://inilorente.github.io/ilr-page",
+    "feed_url": "https://inilorente.github.io/ilr-page/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Iñigo Lorente"
+    },
+    "items": [
+        {
+            "id": "https://inilorente.github.io/ilr-page/pagina-de-prueba.html",
+            "url": "https://inilorente.github.io/ilr-page/pagina-de-prueba.html",
+            "title": "Pagina de prueba",
+            "summary": "Hola. Este es un post de prueba.",
+            "content_html": "<p>Hola. Este es un post de prueba.</p>",
+            "author": {
+                "name": "Iñigo Lorente"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-13T14:28:01+02:00",
+            "date_modified": "2020-07-13T14:28:01+02:00"
+        }
+    ]
+}
